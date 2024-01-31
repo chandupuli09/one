@@ -5,7 +5,7 @@
 	<h2>THIS IS ANOTHER VERSION </h2>
 	<h3>THIS IS LAST VERSION </h3>
         <h4>HEY THIS IS CHANDU </h4>
-        <font color=white size=7> this is final step </font>
+        <font color=blue size=7> this is final step </font>
 	
 	
 	
